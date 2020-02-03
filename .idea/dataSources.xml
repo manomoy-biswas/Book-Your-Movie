@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails movie-ticket-booking-app: test" uuid="1e9f3ae0-2e71-4b7a-ae29-dd73713cce8f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/movie_ticket_booking_app_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails movie-ticket-booking-app: production" uuid="d8dd4efc-3d11-428c-a75f-71ce448d4257">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/movie_ticket_booking_app_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails movie-ticket-booking-app: development" uuid="698a7b01-ce71-434e-8586-8798b52c16d7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/movie_ticket_booking_app_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
